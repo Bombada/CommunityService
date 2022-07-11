@@ -1,0 +1,2 @@
+# CommunityService
+hexagonal clean architecture
